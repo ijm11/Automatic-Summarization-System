@@ -1,0 +1,4 @@
+Model,Time_s,Fact_Recall_Pct,Hallucinations_Count,Repetition_Pct,Word_Count
+gpt2,26.35,2.11,1.67,47.18,107.0
+deepseek-chat,11.71,9.44,5.67,31.0,299.33
+deepseek-reasoner,16.59,10.14,5.17,31.52,309.17
